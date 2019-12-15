@@ -2,6 +2,8 @@
 
 Flutter Drawer specifically designed for navigation.
 
+```
 navigation_drawer:
   git:
-    url: git://github.com/flutter/plugin1.git
+    url: git://github.com/VadimOsovsky/flutter_navigation_drawer.git
+```
